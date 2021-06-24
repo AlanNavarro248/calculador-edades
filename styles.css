@@ -1,0 +1,26 @@
+.oculto{
+    display: none;
+}
+
+body{
+    background-color: #19287fad;
+}
+
+.error {
+    color: red;
+}
+
+
+.interface {
+    text-align: center;
+    padding: 10px;
+    font-size:20px;
+    
+}
+
+#exito  {
+
+    font-size: 40px;
+    color: yellow;
+
+}
