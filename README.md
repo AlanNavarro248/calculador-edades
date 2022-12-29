@@ -1,2 +1,2 @@
 # calculador-edades
- Un calculador basico que determina la edad maxima, minima y el promedio del grupo familiar.
+ Ejercicio basico que determina la edad maxima, minima y el promedio de un grupo familiar.
